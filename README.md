@@ -46,10 +46,6 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🏢 **Intranet Corporativa** | Portal interno para centralizar informações e processos da empresa | _(coloque aqui as tecnologias)_ |
-| 🔧 **Projeto 2** | Breve descrição | _tecnologias_ |
-| ⚙️ **Projeto 3** | Breve descrição | _tecnologias_ |
-
-> Dica: adicione o link de cada repositório no nome do projeto.
 
 ---
 
