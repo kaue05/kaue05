@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🏢 **Intranet Corporativa** | Portal interno para centralizar informações e processos da empresa | _(coloque aqui as tecnologias)_ |
+| 🏢 **Intranet Corporativa** | Portal interno para centralizar informações e processos da empresa | NEXT.JS, PRISMA, POSTGRESQL, BETTER-AUTH |
 
 ---
 
