@@ -1,13 +1,84 @@
-# Olá, eu sou o Kaue 👋
+<h1 align="center">Olá, eu sou o Kaue 👋</h1>
 
-Analista e Desenvolvedor de Sistemas | Analista de Infraestrutura Pleno
+<p align="center">
+  <b>Analista e Desenvolvedor de Sistemas</b> • <b>Analista de Infraestrutura Pleno</b><br>
+  Unindo infraestrutura, desenvolvimento e segurança para fazer a tecnologia funcionar de verdade.
+</p>
 
-- 🔭 Trabalhando em: Analista de Infraestrutura de TI
-- 🌱 Estudando: Cybersecurity
-- 📫 Contato: kaueos005@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Infraestrutura_de_TI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desenvolvimento_Web-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-b91c1c?style=for-the-badge" />
+</p>
 
-## Tecnologias
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+## 🧑‍💻 Sobre mim
+
+- 🏭 Atuo como **Analista de Infraestrutura de TI** em um frigorífico bovino, cuidando de redes, servidores, suporte e sistemas.
+- 🛠️ Desenvolvi uma **intranet corporativa** do zero para a minha empresa, de ponta a ponta.
+- 🔐 Estudando **Cybersecurity** para unir infraestrutura e segurança da informação.
+- 🌱 Sempre aprendendo, principalmente automação e boas práticas de desenvolvimento.
+- 💬 Pergunte-me sobre: **redes, Linux, suporte técnico e desenvolvimento web**.
+
+---
+
+## 🚀 Tecnologias e ferramentas
+
+**Desenvolvimento**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,html,css&perline=8" />
+</p>
+
+**Infraestrutura e ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&perline=8" />
+</p>
+
+**Também trabalho com:** React Native • Administração de redes • Suporte técnico • Gestão de infraestrutura de TI
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🏢 **Intranet Corporativa** | Portal interno para centralizar informações e processos da empresa | _(coloque aqui as tecnologias)_ |
+| 🔧 **Projeto 2** | Breve descrição | _tecnologias_ |
+| ⚙️ **Projeto 3** | Breve descrição | _tecnologias_ |
+
+> Dica: adicione o link de cada repositório no nome do projeto.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaue05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaue05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Objetivos atuais
+
+- [x] Montar uma infraestrutura de TI organizada e estável
+- [x] Desenvolver uma intranet para a empresa
+- [ ] Aprofundar em Cybersecurity (pentest, hardening, defesa de redes)
+- [ ] Publicar mais projetos open source
+- [ ] Obter certificações na área (ex.: Security+, CCNA, LPIC)
+
+---
+
+## 📫 Vamos conversar?
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/kaue-oliveira-dos-santos-3a3604281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaueos005@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
