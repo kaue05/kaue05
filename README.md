@@ -75,7 +75,7 @@
 ## 📫 Vamos conversar?
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/kaue-oliveira-dos-santos-3a3604281/">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/kaue-oliveira-dos-santos-3a3604281">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kaueos005@gmail.com">
